@@ -1,6 +1,6 @@
 # .github
 
-Welcome to the Health Analytics and Multidisciplinary Modelling Lab's GitHub.  
+Welcome to the Mathematics, Analytics and Data Science Lab's GitHub.  
 
 We are situated within the Fields Institute and are part of the Centre for Quantitative Analysis and Modelling (CQAM).
 
